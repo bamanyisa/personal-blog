@@ -27,11 +27,11 @@ export default defineConfig({
     sitemap(),
     icon(),
   ],
-  site: "https://brockherion.dev",
+  site: "https://bamanyisa.com",
   markdown: {
     shikiConfig: {
       theme: "dark-plus",
     },
   },
-  site: "https://brockherion.dev",
+  site: "https://bamanyisa.com",
 });
