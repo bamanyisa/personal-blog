@@ -1,10 +1,10 @@
-## About
+# Vien Bamanyisa - Personal Website
 
-This is my personal website, developed using Astro. On it, you'll find blog posts I've written, projects I'm working on, and more.
+This is my personal website where I share my work, insights, and projects.
 
-Feel free to use this project as a starting point for developing your own blog!
+---
 
-## Built with
+## Built With
 
 - 🚀 Astro
 - ⚛️ React
@@ -12,16 +12,22 @@ Feel free to use this project as a starting point for developing your own blog!
 - ✍️ Markdown
 - ☁️ Cloudflare Pages
 
-## Roadmap
+---
 
-- [x] Update UI and simplify codebase
-- [ ] Add Cal.com embed
-- [ ] Add search to blog posts
-- [ ] Create a contact page/section
-- [ ] Add my "Buy me a coffee" link
+## Project Highlight
+
+- **Plug** – The fastest way to launch financial products [plugbanking.net](https://plugbanking.net)
+
+---
 
 ## Contact
 
-Brock Herion - [@brockherion](https://twitter.com/brockherion) - brockheriondev@gmail.com
+**Vien Bamanyisa**
 
-Project Link: [https://github.com/brockherion/brockherion.dev](https://github.com/brockherion/brockherion.dev)
+- Twitter: [@vienbamanyisa](https://twitter.com/vienbamanyisa)
+
+---
+
+## Credits
+
+_Template originally created by [Brock Herion](https://github.com/BrockHerion/brockherion.dev)._
